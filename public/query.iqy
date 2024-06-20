@@ -1,0 +1,16 @@
+WEB
+1
+https://portal.pv.gov.sa/Surveys/_vti_bin/owssvr.dll?XMLDATA=1&List={9B5DB419-2F5E-4366-A597-7C45F6C503B3}&View={CE990A3D-088E-4E19-863B-0A767E3D8B04}&RowLimit=0&RootFolder=%2fSurveys%2fLists%2fHajjsurvey2024
+
+Selection={9B5DB419-2F5E-4366-A597-7C45F6C503B3}-{CE990A3D-088E-4E19-863B-0A767E3D8B04}
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://portal.pv.gov.sa/Surveys/_vti_bin
+SharePointListView={CE990A3D-088E-4E19-863B-0A767E3D8B04}
+SharePointListName={9B5DB419-2F5E-4366-A597-7C45F6C503B3}
+RootFolder=/Surveys/Lists/Hajjsurvey2024
